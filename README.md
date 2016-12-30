@@ -1,5 +1,5 @@
 # Kaggle_Titanic_in_R
-This is my first kaggle submission, and it is for the Titanic Machine leaning competition. 
+This is my first kaggle submission, and it is for the Titanic Machine learning competition. 
 
 It is done in R markdown and largely based on the awesome kernel by Megan Risdal.
 https://www.kaggle.com/mrisdal/titanic/exploring-survival-on-the-titanic
